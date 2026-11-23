@@ -104,7 +104,7 @@ Requisitos: um servidor Linux com 2 vCPU, 4 GB de RAM e Docker, e um domínio co
 | --- | --- | --- | --- |
 | 1.0.0 | 16/11/2026 | Primeira versão: console white label, painel da loja, cardápio público, Mercado Pago, WhatsApp, conectores de delivery e guias de instalação | Atual |
 
-As correções de erros são gratuitas para quem comprou. As novas versões, com novos recursos, são pagas à parte, e quem comprou a v1 paga apenas o valor da atualização. Veja os detalhes em [seumenu.digital/compra-resumo](https://seumenu.digital/compra-resumo/).
+As correções de erros são gratuitas para quem comprou. As novas versões, com novos recursos, são pagas à parte, e quem comprou a v1 paga apenas o valor da atualização. Os avisos de correções e de novas versões são enviados por e-mail ao endereço informado na compra. Veja os detalhes em [seumenu.digital/compra-resumo](https://seumenu.digital/compra-resumo/).
 
 ## Comprar o código-fonte
 
@@ -119,11 +119,13 @@ As correções de erros são gratuitas para quem comprou. As novas versões, com
 
 O código é entregue como está, sem suporte direto. Não inclui os recursos de IA, exclusivos das assinaturas. A revenda e a redistribuição do código não são permitidas.
 
+Você pode modificar o código, mas responde sozinho pelas modificações que fizer. Se alterar, desativar ou remover as camadas e os recursos de segurança do sistema, as vulnerabilidades que resultarem disso e a sua exploração são de sua responsabilidade exclusiva. As novas versões e as correções são preparadas para o código original da versão comprada: conflitos ou falhas ao aplicá-las sobre um código modificado não são de nossa responsabilidade.
+
 ## Licença
 
 Este repositório contém apenas a apresentação do produto. O código-fonte é distribuído sob licença comercial de uso: permitido em seus projetos e para atender seus clientes; revenda e redistribuição proibidas.
 
-## Feito e vendido por
+## Criado e mantido por
 
 <table>
   <tr>
